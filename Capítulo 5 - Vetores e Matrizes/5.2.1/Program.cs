@@ -1,0 +1,1 @@
+﻿int[,] matriz = new int[3, 2];

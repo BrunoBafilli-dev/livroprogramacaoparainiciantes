@@ -1,0 +1,5 @@
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 5 - Vetores e Matrizes\5.1.2\obj\Debug\net7.0\5.1.2.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 5 - Vetores e Matrizes\5.1.2\obj\Debug\net7.0\5.1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 5 - Vetores e Matrizes\5.1.2\obj\Debug\net7.0\5.1.2.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 5 - Vetores e Matrizes\5.1.2\obj\Debug\net7.0\5.1.2.AssemblyInfo.cs
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 5 - Vetores e Matrizes\5.1.2\obj\Debug\net7.0\5.1.2.csproj.CoreCompileInputs.cache
