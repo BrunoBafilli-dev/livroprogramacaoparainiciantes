@@ -1,8 +1,13 @@
-﻿// Solicitar ao usuário que insira um número
+﻿// 1 - Escreva um programa que solicite ao usuário um número e exiba a mensagem 
+// "Número par" se o número for par, ou "Número ímpar" se for ímpar.
+
+/**************************Solução abaixo*********************************/
+
+// Solicitar ao usuário que insira um número
 Console.Write("Digite um número: ");
 
 // Ler o número digitado pelo usuário e armazená-lo em uma variável
-int numero = int.Parse(Console.ReadLine());
+int numero = Convert.ToInt32(Console.ReadLine());
 
 // Verificar se o número é par ou ímpar usando o operador módulo (%)
 // O operador % retorna o resto da divisão do número por 2

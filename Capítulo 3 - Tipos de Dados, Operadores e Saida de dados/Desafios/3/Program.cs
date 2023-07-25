@@ -1,4 +1,8 @@
-﻿// Exibe a mensagem "Digite 3 palavras" para solicitar ao usuário que insira três palavras
+﻿//3 - Você recebeu três palavras e precisa criar um programa que as concatene em uma única string.
+
+/**************************Solução abaixo*********************************/
+
+// Exibe a mensagem "Digite 3 palavras" para solicitar ao usuário que insira três palavras
 Console.WriteLine("Digite 3 palavras");
 
 // Solicitar ao usuário que insira a primeira palavra e armazenar na variável palavra1

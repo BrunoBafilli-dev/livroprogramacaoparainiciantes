@@ -1,4 +1,9 @@
-﻿int numero; // Declara a variável inteira 'numero' para armazenar os números digitados pelo usuário.
+﻿//3 - Calcular a média de uma sequência de números digitados 
+//pelo usuário até que o número zero seja digitado utilizando um loop do-while
+
+/**************************Solução abaixo*********************************/
+
+int numero; // Declara a variável inteira 'numero' para armazenar os números digitados pelo usuário.
 int soma = 0; // Inicializa a variável 'soma' com zero para acumular a soma dos números digitados (exceto o zero).
 int quantidadeNumeros = 0; // Inicializa a variável 'quantidadeNumeros' com zero para contar a quantidade de números digitados (exceto o zero).
 
@@ -8,7 +13,7 @@ Console.WriteLine("Digite uma sequência de números. Digite 0 para encerrar e c
 do // O loop executa pelo menos uma vez, mesmo que a condição de parada não seja atendida, pois a verificação é feita no final do loop.
 {
     Console.Write("Digite um número: "); // Exibe a mensagem para o usuário no console, solicitando que digite um número.
-    numero = int.Parse(Console.ReadLine()); // Lê a entrada do usuário e converte o valor para um inteiro, armazenando na variável 'numero'.
+    numero = Convert.ToInt32(Console.ReadLine()); // Lê a entrada do usuário e converte o valor para um inteiro, armazenando na variável 'numero'.
 
     // Se o número digitado for diferente de zero, atualiza a soma e a quantidade de números.
     if (numero != 0)

@@ -1,6 +1,12 @@
-﻿// Recebendo a idade da pessoa
+﻿//5 - Você recebeu a idade e a altura de uma pessoa e precisa realizar algumas verificações utilizando operadores lógicos.
+//A. Verifique se a idade é maior ou igual a 18 anos e a altura é maior ou igual a 1.60 metros. Armazene o resultado em uma variável booleana.
+//B. Verifique se a idade é menor que 12 anos ou a altura é menor que 1.40 metros. Armazene o resultado em uma segunda variável booleana.
+
+/**************************Solução abaixo*********************************/
+
+// Recebendo a idade da pessoa
 Console.Write("Digite a idade: ");
-int idade = int.Parse(Console.ReadLine());
+int idade = Convert.ToInt32(Console.ReadLine());
 
 // Recebendo a altura da pessoa
 Console.Write("Digite a altura (em metros): ");

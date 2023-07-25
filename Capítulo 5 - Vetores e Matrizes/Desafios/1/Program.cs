@@ -1,5 +1,10 @@
-﻿Console.Write("Digite a quantidade de números no vetor: "); // Solicita ao usuário a quantidade de números que deseja inserir no vetor.
-int tamanho = int.Parse(Console.ReadLine()); // Lê a entrada do usuário e converte o valor para um inteiro, armazenando na variável 'tamanho'.
+﻿//1 - Crie um programa que receba um vetor de números inteiros como 
+//entrada e determine o menor e o maior valor presentes no vetor.
+
+/**************************Solução abaixo*********************************/
+
+Console.Write("Digite a quantidade de números no vetor: "); // Solicita ao usuário a quantidade de números que deseja inserir no vetor.
+int tamanho = Convert.ToInt32(Console.ReadLine()); // Lê a entrada do usuário e converte o valor para um inteiro, armazenando na variável 'tamanho'.
 
 int[] vetor = new int[tamanho]; // Cria o vetor com o tamanho informado pelo usuário.
 
@@ -7,7 +12,7 @@ int[] vetor = new int[tamanho]; // Cria o vetor com o tamanho informado pelo usu
 for (int i = 0; i < tamanho; i++) // Loop para percorrer cada posição do vetor e obter os valores do usuário.
 {
     Console.Write($"Digite o {i+1}º número: "); // Exibe a mensagem solicitando o valor da posição atual do vetor.
-    vetor[i] = int.Parse(Console.ReadLine()); // Lê a entrada do usuário e converte o valor para um inteiro, armazenando na posição i do vetor.
+    vetor[i] = Convert.ToInt32(Console.ReadLine()); // Lê a entrada do usuário e converte o valor para um inteiro, armazenando na posição i do vetor.
 }
 
 int menorValor = vetor[0]; // Inicializa a variável 'menorValor' com o primeiro elemento do vetor.

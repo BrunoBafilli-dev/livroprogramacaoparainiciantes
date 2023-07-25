@@ -1,5 +1,9 @@
-﻿Console.Write("Digite a quantidade de elementos do vetor: "); // Solicita ao usuário a quantidade de elementos do vetor.
-int tamanhoVetor = int.Parse(Console.ReadLine()); // Lê a entrada do usuário e converte o valor para um inteiro, armazenando na variável 'tamanhoVetor'.
+﻿//3 - Crie um programa que copie os elementos de um vetor original para um novo vetor e exiba o novo vetor como saída.
+
+/**************************Solução abaixo*********************************/
+
+Console.Write("Digite a quantidade de elementos do vetor: "); // Solicita ao usuário a quantidade de elementos do vetor.
+int tamanhoVetor = Convert.ToInt32(Console.ReadLine()); // Lê a entrada do usuário e converte o valor para um inteiro, armazenando na variável 'tamanhoVetor'.
 
 int[] vetorOriginal = new int[tamanhoVetor]; // Cria um vetor 'vetorOriginal' com o tamanho informado pelo usuário.
 
@@ -7,7 +11,7 @@ int[] vetorOriginal = new int[tamanhoVetor]; // Cria um vetor 'vetorOriginal' co
 for (int i = 0; i < tamanhoVetor; i++) // Loop para percorrer cada posição do vetorOriginal.
 {
     Console.Write($"Digite o {i+1}º elemento: "); // Exibe a mensagem solicitando o valor da posição atual do vetorOriginal.
-    vetorOriginal[i] = int.Parse(Console.ReadLine()); // Lê a entrada do usuário e converte o valor para um inteiro, armazenando na posição i do vetorOriginal.
+    vetorOriginal[i] = Convert.ToInt32(Console.ReadLine()); // Lê a entrada do usuário e converte o valor para um inteiro, armazenando na posição i do vetorOriginal.
 }
 
 int[] novoVetor = new int[tamanhoVetor]; // Cria um novo vetor 'novoVetor' com o mesmo tamanho do vetorOriginal.

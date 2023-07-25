@@ -1,4 +1,9 @@
-﻿// Solicitar ao usuário que insira um número inteiro positivo
+﻿//5 - Crie um programa que solicite ao usuário um número inteiro positivo e 
+//calcule a soma de todos os números pares de 1 até o número fornecido. Exiba o resultado da soma.
+
+/**************************Solução abaixo*********************************/
+
+// Solicitar ao usuário que insira um número inteiro positivo
 Console.Write("Digite um número inteiro positivo: ");
 
 // Ler o número digitado pelo usuário e armazená-lo em uma variável

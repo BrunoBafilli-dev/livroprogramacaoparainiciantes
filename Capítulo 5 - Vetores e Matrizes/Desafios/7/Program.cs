@@ -1,4 +1,10 @@
-﻿ // Solicitar ao usuário o tamanho do vetor
+﻿//7 - Crie um programa que receba um vetor de números inteiros como entrada 
+//e um número específico a ser procurado. Implemente a busca binária para 
+//verificar se o número está presente no vetor. Exiba uma mensagem indicando se o número foi encontrado ou não.
+
+/**************************Solução abaixo*********************************/
+
+// Solicitar ao usuário o tamanho do vetor
 Console.Write("Digite o tamanho do vetor: ");
 int tamanho = Convert.ToInt32(Console.ReadLine());
 

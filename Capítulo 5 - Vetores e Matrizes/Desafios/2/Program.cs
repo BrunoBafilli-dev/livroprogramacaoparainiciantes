@@ -1,5 +1,11 @@
-﻿Console.Write("Digite o tamanho da matriz quadrada (número de linhas e colunas): ");
-int tamanhoMatriz = int.Parse(Console.ReadLine());
+﻿//2 - Crie um programa que peça ao usuário para inserir os elementos de uma matriz 
+//quadrada (mesmo número de linhas e colunas) e verifique se ela é uma matriz 
+//diagonal, ou seja, todos os elementos fora da diagonal principal são iguais a zero.
+
+/**************************Solução abaixo*********************************/
+
+Console.Write("Digite o tamanho da matriz quadrada (número de linhas e colunas): ");
+int tamanhoMatriz = Convert.ToInt32(Console.ReadLine());
 
 int[,] matriz = new int[tamanhoMatriz, tamanhoMatriz]; // Cria uma matriz quadrada com o tamanho informado.
 
@@ -9,7 +15,7 @@ for (int i = 0; i < tamanhoMatriz; i++) // Loop para percorrer as linhas da matr
     for (int j = 0; j < tamanhoMatriz; j++) // Loop para percorrer as colunas da matriz.
     {
         Console.Write($"Digite o elemento da posição [{i}, {j}]: ");
-        matriz[i, j] = int.Parse(Console.ReadLine());
+        matriz[i, j] = Convert.ToInt32(Console.ReadLine());
     }
 }
 

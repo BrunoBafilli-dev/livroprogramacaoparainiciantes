@@ -1,6 +1,12 @@
-﻿// Solicitar ao usuário o tamanho do vetor
+﻿//6 - Crie um programa que ordene um vetor de números inteiros em ordem crescente 
+//utilizando o algoritmo de ordenação por inserção. Peça ao usuário para inserir 
+//os elementos do vetor e, em seguida, exiba o vetor ordenado.
+
+/**************************Solução abaixo*********************************/
+
+// Solicitar ao usuário o tamanho do vetor
 Console.Write("Digite o tamanho do vetor: ");
-int tamanho = int.Parse(Console.ReadLine());
+int tamanho = Convert.ToInt32(Console.ReadLine());
 // Lê o tamanho do vetor fornecido pelo usuário e armazena na variável "tamanho".
 
 // Criar o vetor com o tamanho informado pelo usuário
@@ -11,7 +17,7 @@ int[] vetor = new int[tamanho];
 for (int i = 0; i < tamanho; i++)
 {
     Console.Write($"Digite o valor para o elemento {i + 1}: ");
-    vetor[i] = int.Parse(Console.ReadLine());
+    vetor[i] = Convert.ToInt32(Console.ReadLine());
     // Pede ao usuário para fornecer um valor para cada elemento do vetor.
     // Os valores fornecidos são armazenados nos elementos correspondentes do vetor.
 }

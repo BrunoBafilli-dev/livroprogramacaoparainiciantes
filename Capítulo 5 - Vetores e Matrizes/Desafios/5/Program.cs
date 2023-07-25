@@ -1,4 +1,10 @@
-﻿// Solicitar ao usuário o tamanho original do vetor
+﻿//5 - Crie um programa que redimensione um vetor de números inteiros. Peça ao usuário para inserir 
+//o tamanho original do vetor e os valores dos elementos. Em seguida, reduza o tamanho do vetor 
+//para a metade e exiba o novo vetor resultante.
+
+/**************************Solução abaixo*********************************/
+
+// Solicitar ao usuário o tamanho original do vetor
 Console.Write("Digite o tamanho original do vetor: ");
 int tamanhoOriginal = Convert.ToInt32(Console.ReadLine());
 

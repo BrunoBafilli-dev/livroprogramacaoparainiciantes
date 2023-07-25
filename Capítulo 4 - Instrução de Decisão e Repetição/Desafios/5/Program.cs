@@ -1,4 +1,8 @@
-﻿Console.WriteLine("Contagem regressiva de 10 a 1:"); // Exibe a mensagem para o usuário no console, informando a contagem regressiva.
+﻿//5 - Exibir uma contagem regressiva de 10 a 1 utilizando um loop while
+
+/**************************Solução abaixo*********************************/
+
+Console.WriteLine("Contagem regressiva de 10 a 1:"); // Exibe a mensagem para o usuário no console, informando a contagem regressiva.
 
 int contador = 10; // Inicializa a variável 'contador' com o valor 10 para iniciar a contagem regressiva.
 

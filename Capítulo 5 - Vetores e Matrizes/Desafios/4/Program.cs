@@ -1,4 +1,9 @@
-﻿Console.Write("Digite a quantidade de nomes: "); // Solicita ao usuário a quantidade de nomes a serem digitados.
+﻿//4 - Crie um programa que receba uma lista de nomes como entrada e use um 
+//loop foreach para exibir cada nome em uma linha separada.
+
+/**************************Solução abaixo*********************************/
+
+Console.Write("Digite a quantidade de nomes: "); // Solicita ao usuário a quantidade de nomes a serem digitados.
 int quantidadeNomes = Convert.ToInt16(Console.ReadLine()); // Lê a entrada do usuário e converte o valor para um inteiro, armazenando na variável 'quantidadeNomes'.
 
 string[] nomes = new string[quantidadeNomes]; // Cria um vetor 'nomes' com o tamanho informado pelo usuário.

@@ -1,8 +1,13 @@
-﻿ // Solicitar ao usuário que insira um número inteiro
+﻿//6 - Crie um programa que solicite ao usuário um número inteiro e exiba a 
+//tabuada desse número, multiplicando-o pelos números de 1 a 10.
+
+/**************************Solução abaixo*********************************/
+
+// Solicitar ao usuário que insira um número inteiro
 Console.Write("Digite um número inteiro: ");
 
 // Ler o número digitado pelo usuário e armazená-lo em uma variável
-int numero = int.Parse(Console.ReadLine());
+int numero = Convert.ToInt32(Console.ReadLine());
 
 // Exibir a tabuada do número digitado
 Console.WriteLine($"Tabuada do {numero}:");

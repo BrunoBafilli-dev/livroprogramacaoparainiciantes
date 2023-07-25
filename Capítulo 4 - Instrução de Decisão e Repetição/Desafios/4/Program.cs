@@ -1,5 +1,9 @@
-﻿Console.Write("Digite um número inteiro positivo: "); // Exibe a mensagem no console, solicitando que o usuário digite um número inteiro positivo.
-int numero = int.Parse(Console.ReadLine()); // Lê a entrada do usuário e converte o valor para um inteiro, armazenando na variável 'numero'.
+﻿//4 - Verificar se um número digitado pelo usuário é primo utilizando um loop for
+
+/**************************Solução abaixo*********************************/
+
+Console.Write("Digite um número inteiro positivo: "); // Exibe a mensagem no console, solicitando que o usuário digite um número inteiro positivo.
+int numero = Convert.ToInt32(Console.ReadLine()); // Lê a entrada do usuário e converte o valor para um inteiro, armazenando na variável 'numero'.
 
 int numDivisores = 0; // Declara e inicializa a variável 'numDivisores' com zero para contar quantos divisores o número digitado possui.
 
