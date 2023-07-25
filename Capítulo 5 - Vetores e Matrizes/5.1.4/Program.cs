@@ -1,1 +1,0 @@
-﻿int tamanhoVetor = numeros.Length;

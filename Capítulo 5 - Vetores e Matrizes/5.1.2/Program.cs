@@ -1,1 +1,0 @@
-﻿int terceiroNumero = numeros[2];

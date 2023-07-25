@@ -1,1 +1,0 @@
-﻿int[] numeros = new int[5];
