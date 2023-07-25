@@ -1,4 +1,6 @@
-﻿//4 - Verificar se um número digitado pelo usuário é primo utilizando um loop for
+﻿/*
+4 - Verificar se um número digitado pelo usuário é primo utilizando um loop for
+*/
 
 /**************************Solução abaixo*********************************/
 

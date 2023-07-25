@@ -1,6 +1,8 @@
-﻿// 2 - Você está desenvolvendo um programa de agendamento e precisa criar um 
-//sistema para representar os diferentes meses do ano. Utilize enumeradores para criar os meses 
-//(Janeiro, Fevereiro, Março, Abril, Maio, Junho, Julho, Agosto, Setembro, Outubro, Novembro, Dezembro).
+﻿/*
+2 - Você está desenvolvendo um programa de agendamento e precisa criar um 
+sistema para representar os diferentes meses do ano. Utilize enumeradores para criar os meses 
+(Janeiro, Fevereiro, Março, Abril, Maio, Junho, Julho, Agosto, Setembro, Outubro, Novembro, Dezembro).
+*/
 
 /**************************Solução abaixo*********************************/
 

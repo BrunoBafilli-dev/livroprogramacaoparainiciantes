@@ -1,4 +1,10 @@
-﻿// Criando uma função anônima que soma dois números inteiros.
+﻿/*
+8 - Crie uma função anônima some 2 números e exiba na tela.
+*/
+
+/**************************Solução abaixo*********************************/
+
+// Criando uma função anônima que soma dois números inteiros.
 Func<int, int, int> somar = delegate(int x, int y)
 {
     return x + y;

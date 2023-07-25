@@ -1,5 +1,7 @@
-﻿//4 - Crie um programa que receba uma lista de nomes como entrada e use um 
-//loop foreach para exibir cada nome em uma linha separada.
+﻿/*
+4 - Crie um programa que receba uma lista de nomes como entrada e use um 
+loop foreach para exibir cada nome em uma linha separada.
+*/
 
 /**************************Solução abaixo*********************************/
 

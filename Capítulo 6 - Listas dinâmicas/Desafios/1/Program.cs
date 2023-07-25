@@ -1,4 +1,6 @@
-﻿//1 - Crie uma lista chamada "minhaLista". Verifique se a lista está vazia.
+﻿/*
+1 - Crie uma lista chamada "minhaLista". Verifique se a lista está vazia.
+*/
 
 /**************************Solução abaixo*********************************/
 

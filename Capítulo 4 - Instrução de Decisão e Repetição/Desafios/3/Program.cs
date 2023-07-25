@@ -1,5 +1,7 @@
-﻿//3 - Calcular a média de uma sequência de números digitados 
-//pelo usuário até que o número zero seja digitado utilizando um loop do-while
+﻿/*
+3 - Calcular a média de uma sequência de números digitados 
+pelo usuário até que o número zero seja digitado utilizando um loop do-while
+*/
 
 /**************************Solução abaixo*********************************/
 

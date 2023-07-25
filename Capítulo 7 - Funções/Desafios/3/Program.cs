@@ -1,5 +1,7 @@
-﻿//3 - Crie uma função chamada "incrementar" que recebe um parâmetro inteiro por referência e incrementa seu valor em 1. 
-//Em seguida, chame a função passando uma variável inteira como argumento e imprima o valor antes e depois da chamada da função.
+﻿/*
+3 - Crie uma função chamada "incrementar" que recebe um parâmetro inteiro por referência e incrementa seu valor em 1. 
+Em seguida, chame a função passando uma variável inteira como argumento e imprima o valor antes e depois da chamada da função.
+*/
 
 /**************************Solução abaixo*********************************/
 

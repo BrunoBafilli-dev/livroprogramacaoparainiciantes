@@ -1,4 +1,6 @@
-﻿//1 - Exibir os números pares de 1 a 20 utilizando um loop for
+﻿/*
+1 - Exibir os números pares de 1 a 20 utilizando um loop for
+*/
 
 /**************************Solução abaixo*********************************/
 

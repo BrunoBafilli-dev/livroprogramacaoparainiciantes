@@ -1,5 +1,7 @@
-﻿//1 - Crie um programa que receba um vetor de números inteiros como 
-//entrada e determine o menor e o maior valor presentes no vetor.
+﻿/*
+1 - Crie um programa que receba um vetor de números inteiros como 
+entrada e determine o menor e o maior valor presentes no vetor.
+*/
 
 /**************************Solução abaixo*********************************/
 

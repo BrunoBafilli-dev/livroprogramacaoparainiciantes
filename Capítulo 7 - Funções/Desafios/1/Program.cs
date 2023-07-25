@@ -1,6 +1,8 @@
-﻿//1 - Crie uma função chamada "calcularAreaRetangulo" que recebe dois parâmetros: largura e altura. 
-//A função deve calcular e retornar a área do retângulo. 
-//Em seguida, chame a função com valores diferentes para largura e altura e imprima o resultado.
+﻿/*
+1 - Crie uma função chamada "calcularAreaRetangulo" que recebe dois parâmetros: largura e altura. 
+A função deve calcular e retornar a área do retângulo. 
+Em seguida, chame a função com valores diferentes para largura e altura e imprima o resultado.
+*/
 
 /**************************Solução abaixo*********************************/
 

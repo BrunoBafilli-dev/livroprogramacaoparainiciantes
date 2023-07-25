@@ -1,5 +1,7 @@
-﻿// 1 - Escreva um programa que solicite ao usuário um número e exiba a mensagem 
-// "Número par" se o número for par, ou "Número ímpar" se for ímpar.
+﻿/*
+1 - Escreva um programa que solicite ao usuário um número e exiba a mensagem 
+"Número par" se o número for par, ou "Número ímpar" se for ímpar.
+*/
 
 /**************************Solução abaixo*********************************/
 

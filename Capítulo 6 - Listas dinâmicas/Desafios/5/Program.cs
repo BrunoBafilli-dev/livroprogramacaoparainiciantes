@@ -1,5 +1,7 @@
-﻿//5 - Crie uma lista com os números de 1 a 5 chamada "minhaLista". 
-//Remova o número 3 da lista. Imprima a lista para verificar se o elemento foi removido corretamente.
+﻿/*
+5 - Crie uma lista com os números de 1 a 5 chamada "minhaLista". 
+Remova o número 3 da lista. Imprima a lista para verificar se o elemento foi removido corretamente.
+*/
 
 /**************************Solução abaixo*********************************/
 

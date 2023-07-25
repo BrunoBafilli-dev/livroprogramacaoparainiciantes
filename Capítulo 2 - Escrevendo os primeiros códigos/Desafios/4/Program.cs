@@ -1,5 +1,7 @@
-﻿//4 - Escreva um programa que faça uma contagem regressiva a partir de um número fornecido 
-//pelo usuário até zero. Em cada iteração, o programa deve exibir o número atual da contagem.
+﻿/*
+4 - Escreva um programa que faça uma contagem regressiva a partir de um número fornecido 
+pelo usuário até zero. Em cada iteração, o programa deve exibir o número atual da contagem.
+*/
 
 /**************************Solução abaixo*********************************/
 

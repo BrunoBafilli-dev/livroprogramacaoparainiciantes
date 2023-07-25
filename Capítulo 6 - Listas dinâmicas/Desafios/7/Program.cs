@@ -1,5 +1,7 @@
-﻿//7 - Crie uma lista com os números de 1 a 5 chamada "minhaLista". 
-//Verifique o tamanho da lista e imprima o resultado.
+﻿/*
+7 - Crie uma lista com os números de 1 a 5 chamada "minhaLista". 
+Verifique o tamanho da lista e imprima o resultado.
+*/
 
 /**************************Solução abaixo*********************************/
 

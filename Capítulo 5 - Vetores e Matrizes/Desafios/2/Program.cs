@@ -1,6 +1,8 @@
-﻿//2 - Crie um programa que peça ao usuário para inserir os elementos de uma matriz 
-//quadrada (mesmo número de linhas e colunas) e verifique se ela é uma matriz 
-//diagonal, ou seja, todos os elementos fora da diagonal principal são iguais a zero.
+﻿/*
+2 - Crie um programa que peça ao usuário para inserir os elementos de uma matriz 
+quadrada (mesmo número de linhas e colunas) e verifique se ela é uma matriz 
+diagonal, ou seja, todos os elementos fora da diagonal principal são iguais a zero.
+*/
 
 /**************************Solução abaixo*********************************/
 

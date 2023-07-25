@@ -1,5 +1,7 @@
-﻿//2 - Crie uma lista vazia chamada "minhaLista". Adicione os números de 1 a 5 à 
-//lista. Imprima a lista para verificar se os elementos foram adicionados corretamente.
+﻿/*
+2 - Crie uma lista vazia chamada "minhaLista". Adicione os números de 1 a 5 à 
+lista. Imprima a lista para verificar se os elementos foram adicionados corretamente.
+*/
 
 /**************************Solução abaixo*********************************/
 

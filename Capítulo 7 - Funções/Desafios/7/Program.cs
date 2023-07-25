@@ -1,4 +1,11 @@
-﻿
+﻿/*
+7 - Crie uma função chamada "processarLista" que recebe uma lista de números e uma função de callback como parâmetros. 
+A função "processarLista" deve aplicar a função de callback a cada elemento da lista e imprimir o resultado. 
+Em seguida, crie uma função de callback chamada "dobrarNumero" que recebe um número como parâmetro e retorna 
+o dobro desse número. Chame a função "processarLista" passando uma lista de números e a função de callback "dobrarNumero".
+*/
+
+/**************************Solução abaixo*********************************/
 
 // Criando uma lista de números.
 List<int> numeros = new List<int> { 1, 2, 3, 4, 5 };

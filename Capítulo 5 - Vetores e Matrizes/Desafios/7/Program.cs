@@ -1,6 +1,8 @@
-﻿//7 - Crie um programa que receba um vetor de números inteiros como entrada 
-//e um número específico a ser procurado. Implemente a busca binária para 
-//verificar se o número está presente no vetor. Exiba uma mensagem indicando se o número foi encontrado ou não.
+﻿/*
+7 - Crie um programa que receba um vetor de números inteiros como entrada 
+e um número específico a ser procurado. Implemente a busca binária para 
+verificar se o número está presente no vetor. Exiba uma mensagem indicando se o número foi encontrado ou não.
+*/
 
 /**************************Solução abaixo*********************************/
 

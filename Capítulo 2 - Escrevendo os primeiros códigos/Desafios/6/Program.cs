@@ -1,5 +1,7 @@
-﻿//6 - Crie um programa que solicite ao usuário um número inteiro e exiba a 
-//tabuada desse número, multiplicando-o pelos números de 1 a 10.
+﻿/*
+6 - Crie um programa que solicite ao usuário um número inteiro e exiba a 
+tabuada desse número, multiplicando-o pelos números de 1 a 10.
+*/
 
 /**************************Solução abaixo*********************************/
 

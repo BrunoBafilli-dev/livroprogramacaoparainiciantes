@@ -1,5 +1,7 @@
-﻿// 2 - Escreva um programa que solicite um número ao usuário. Em seguida, o programa deve verificar se o 
-// número é positivo, negativo ou zero, exibindo a mensagem correspondente.
+﻿/*
+2 - Escreva um programa que solicite um número ao usuário. Em seguida, o programa deve verificar se o 
+número é positivo, negativo ou zero, exibindo a mensagem correspondente.
+*/
 
 /**************************Solução abaixo*********************************/
 

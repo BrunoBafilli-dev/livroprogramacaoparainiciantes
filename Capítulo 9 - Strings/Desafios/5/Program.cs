@@ -1,5 +1,5 @@
 ﻿/*
-Escreva um programa que solicite ao usuário que digite uma frase. Em seguida, realize as seguintes operações:
+5 - Escreva um programa que solicite ao usuário que digite uma frase. Em seguida, realize as seguintes operações:
 •	Imprima o número total de caracteres na frase.
 
 •	Converta a frase para letras maiúsculas e imprima-a.

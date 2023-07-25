@@ -1,8 +1,10 @@
-﻿//Você recebeu dois números inteiros e precisa realizar cálculos entre eles, sendo A = 23, B = 15;
-//A. Soma: A + B
-//B. Subtração: A – B   
-//C. Divisão: A / B 
-//D. Multiplicação: A * B
+﻿/*
+Você recebeu dois números inteiros e precisa realizar cálculos entre eles, sendo A = 23, B = 15;
+A. Soma: A + B
+B. Subtração: A – B   
+C. Divisão: A / B 
+D. Multiplicação: A * B
+*/
 
 /**************************Solução abaixo*********************************/
 

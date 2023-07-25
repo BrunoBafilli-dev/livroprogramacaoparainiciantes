@@ -1,4 +1,6 @@
-﻿//3 - Você recebeu três palavras e precisa criar um programa que as concatene em uma única string.
+﻿/*
+3 - Você recebeu três palavras e precisa criar um programa que as concatene em uma única string.
+*/
 
 /**************************Solução abaixo*********************************/
 

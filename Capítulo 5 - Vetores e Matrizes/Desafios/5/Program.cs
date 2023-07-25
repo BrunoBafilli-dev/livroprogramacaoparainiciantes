@@ -1,6 +1,8 @@
-﻿//5 - Crie um programa que redimensione um vetor de números inteiros. Peça ao usuário para inserir 
-//o tamanho original do vetor e os valores dos elementos. Em seguida, reduza o tamanho do vetor 
-//para a metade e exiba o novo vetor resultante.
+﻿/*
+5 - Crie um programa que redimensione um vetor de números inteiros. Peça ao usuário para inserir 
+o tamanho original do vetor e os valores dos elementos. Em seguida, reduza o tamanho do vetor 
+para a metade e exiba o novo vetor resultante.
+*/
 
 /**************************Solução abaixo*********************************/
 

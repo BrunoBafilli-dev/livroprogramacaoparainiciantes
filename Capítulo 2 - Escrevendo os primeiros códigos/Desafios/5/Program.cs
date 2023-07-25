@@ -1,5 +1,7 @@
-﻿//5 - Crie um programa que solicite ao usuário um número inteiro positivo e 
-//calcule a soma de todos os números pares de 1 até o número fornecido. Exiba o resultado da soma.
+﻿/*
+5 - Crie um programa que solicite ao usuário um número inteiro positivo e 
+calcule a soma de todos os números pares de 1 até o número fornecido. Exiba o resultado da soma.
+*/
 
 /**************************Solução abaixo*********************************/
 

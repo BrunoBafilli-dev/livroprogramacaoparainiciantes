@@ -1,4 +1,6 @@
-﻿//3 - Crie um programa que copie os elementos de um vetor original para um novo vetor e exiba o novo vetor como saída.
+﻿/*
+3 - Crie um programa que copie os elementos de um vetor original para um novo vetor e exiba o novo vetor como saída.
+*/
 
 /**************************Solução abaixo*********************************/
 

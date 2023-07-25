@@ -1,5 +1,7 @@
-﻿//6 - Crie uma lista com os números de 1 a 5 chamada "minhaLista". 
-//Itere sobre a lista e imprima cada elemento em uma linha separada.
+﻿/*
+6 - Crie uma lista com os números de 1 a 5 chamada "minhaLista". 
+Itere sobre a lista e imprima cada elemento em uma linha separada.
+*/
 
 /**************************Solução abaixo*********************************/
 

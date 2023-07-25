@@ -1,4 +1,6 @@
-﻿//2 - Pedir ao usuário para digitar números até que um número negativo seja digitado utilizando um loop while
+﻿/*
+2 - Pedir ao usuário para digitar números até que um número negativo seja digitado utilizando um loop while
+*/
 
 /**************************Solução abaixo*********************************/
 

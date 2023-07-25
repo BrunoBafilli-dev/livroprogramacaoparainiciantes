@@ -1,6 +1,8 @@
-﻿//6 - Crie um programa que ordene um vetor de números inteiros em ordem crescente 
-//utilizando o algoritmo de ordenação por inserção. Peça ao usuário para inserir 
-//os elementos do vetor e, em seguida, exiba o vetor ordenado.
+﻿/*
+6 - Crie um programa que ordene um vetor de números inteiros em ordem crescente 
+utilizando o algoritmo de ordenação por inserção. Peça ao usuário para inserir 
+os elementos do vetor e, em seguida, exiba o vetor ordenado.
+*/
 
 /**************************Solução abaixo*********************************/
 

@@ -1,5 +1,7 @@
-﻿//2 - Crie uma função chamada "verificarMaiorNumero" que recebe dois números como parâmetros e retorna o maior entre eles. 
-//Em seguida, chame a função com diferentes pares de números e imprima o maior valor retornado.
+﻿/*
+2 - Crie uma função chamada "verificarMaiorNumero" que recebe dois números como parâmetros e retorna o maior entre eles. 
+Em seguida, chame a função com diferentes pares de números e imprima o maior valor retornado.
+*/
 
 /**************************Solução abaixo*********************************/
 

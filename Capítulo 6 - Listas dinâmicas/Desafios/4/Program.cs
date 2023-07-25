@@ -1,5 +1,7 @@
-﻿//4 - Crie uma lista com os números de 1 a 5 chamada "minhaLista". 
-//Verifique se o número 3 está presente na lista. Imprima o resultado.
+﻿/*
+4 - Crie uma lista com os números de 1 a 5 chamada "minhaLista". 
+Verifique se o número 3 está presente na lista. Imprima o resultado.
+*/
 
 /**************************Solução abaixo*********************************/
 

@@ -1,5 +1,7 @@
-﻿//3 - Crie uma lista com os números de 1 a 5 chamada "minhaLista". 
-//Acesse o primeiro elemento da lista e imprima-o.
+﻿/*
+3 - Crie uma lista com os números de 1 a 5 chamada "minhaLista". 
+Acesse o primeiro elemento da lista e imprima-o.
+*/
 
 /**************************Solução abaixo*********************************/
 

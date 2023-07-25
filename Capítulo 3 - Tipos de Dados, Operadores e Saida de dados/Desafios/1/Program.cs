@@ -1,5 +1,7 @@
-﻿//1 - Você recebeu um número decimal representado por um tipo de dado double, 
-//mas precisa exibi-lo como um número inteiro.
+﻿/*
+1 - Você recebeu um número decimal representado por um tipo de dado double, 
+mas precisa exibi-lo como um número inteiro.
+*/
 
 /**************************Solução abaixo*********************************/
 
