@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\Desafios\\3\\3.csproj": {}
+    "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\Desafios\\3\\3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\Desafios\\3\\3.csproj": {
+    "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\Desafios\\3\\3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\Desafios\\3\\3.csproj",
+        "projectUniqueName": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\Desafios\\3\\3.csproj",
         "projectName": "3",
-        "projectPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\Desafios\\3\\3.csproj",
+        "projectPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\Desafios\\3\\3.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\Desafios\\3\\obj\\",
+        "outputPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\Desafios\\3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

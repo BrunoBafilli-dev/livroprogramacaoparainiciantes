@@ -1,5 +1,5 @@
 ﻿Console.Write("Digite a quantidade de nomes: "); // Solicita ao usuário a quantidade de nomes a serem digitados.
-int quantidadeNomes = int.Parse(Console.ReadLine()); // Lê a entrada do usuário e converte o valor para um inteiro, armazenando na variável 'quantidadeNomes'.
+int quantidadeNomes = Convert.ToInt16(Console.ReadLine()); // Lê a entrada do usuário e converte o valor para um inteiro, armazenando na variável 'quantidadeNomes'.
 
 string[] nomes = new string[quantidadeNomes]; // Cria um vetor 'nomes' com o tamanho informado pelo usuário.
 

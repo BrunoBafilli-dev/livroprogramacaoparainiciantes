@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 5 - Vetores e Matrizes\\5.6.1\\5.6.1.csproj": {}
+    "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 5 - Vetores e Matrizes\\5.6.1\\5.6.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 5 - Vetores e Matrizes\\5.6.1\\5.6.1.csproj": {
+    "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 5 - Vetores e Matrizes\\5.6.1\\5.6.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 5 - Vetores e Matrizes\\5.6.1\\5.6.1.csproj",
+        "projectUniqueName": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 5 - Vetores e Matrizes\\5.6.1\\5.6.1.csproj",
         "projectName": "5.6.1",
-        "projectPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 5 - Vetores e Matrizes\\5.6.1\\5.6.1.csproj",
+        "projectPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 5 - Vetores e Matrizes\\5.6.1\\5.6.1.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 5 - Vetores e Matrizes\\5.6.1\\obj\\",
+        "outputPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 5 - Vetores e Matrizes\\5.6.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

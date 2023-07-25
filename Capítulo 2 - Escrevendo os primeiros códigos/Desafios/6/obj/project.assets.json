@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Escrevendo os primeiros códigos - Capitulo 2\\Desafios\\6\\6.csproj",
+      "projectUniqueName": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 2 - Escrevendo os primeiros códigos\\Desafios\\6\\6.csproj",
       "projectName": "6",
-      "projectPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Escrevendo os primeiros códigos - Capitulo 2\\Desafios\\6\\6.csproj",
+      "projectPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 2 - Escrevendo os primeiros códigos\\Desafios\\6\\6.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Escrevendo os primeiros códigos - Capitulo 2\\Desafios\\6\\obj\\",
+      "outputPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 2 - Escrevendo os primeiros códigos\\Desafios\\6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

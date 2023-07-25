@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Escrevendo os primeiros códigos - Capitulo 2\\2.3.1\\2.3.1.csproj",
+      "projectUniqueName": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 2 - Escrevendo os primeiros códigos\\2.3.1\\2.3.1.csproj",
       "projectName": "2.3.1",
-      "projectPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Escrevendo os primeiros códigos - Capitulo 2\\2.3.1\\2.3.1.csproj",
+      "projectPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 2 - Escrevendo os primeiros códigos\\2.3.1\\2.3.1.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Escrevendo os primeiros códigos - Capitulo 2\\2.3.1\\obj\\",
+      "outputPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 2 - Escrevendo os primeiros códigos\\2.3.1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

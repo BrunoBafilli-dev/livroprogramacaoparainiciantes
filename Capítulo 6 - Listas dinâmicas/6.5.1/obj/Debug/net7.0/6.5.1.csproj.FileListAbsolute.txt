@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 6 - Listas dinâmicas\6.5.1\bin\Debug\net7.0\6.5.1.exe
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 6 - Listas dinâmicas\6.5.1\bin\Debug\net7.0\6.5.1.deps.json
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 6 - Listas dinâmicas\6.5.1\bin\Debug\net7.0\6.5.1.runtimeconfig.json
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 6 - Listas dinâmicas\6.5.1\bin\Debug\net7.0\6.5.1.dll
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 6 - Listas dinâmicas\6.5.1\bin\Debug\net7.0\6.5.1.pdb
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 6 - Listas dinâmicas\6.5.1\obj\Debug\net7.0\6.5.1.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 6 - Listas dinâmicas\6.5.1\obj\Debug\net7.0\6.5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 6 - Listas dinâmicas\6.5.1\obj\Debug\net7.0\6.5.1.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 6 - Listas dinâmicas\6.5.1\obj\Debug\net7.0\6.5.1.AssemblyInfo.cs
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 6 - Listas dinâmicas\6.5.1\obj\Debug\net7.0\6.5.1.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 6 - Listas dinâmicas\6.5.1\obj\Debug\net7.0\6.5.1.dll
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 6 - Listas dinâmicas\6.5.1\obj\Debug\net7.0\refint\6.5.1.dll
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 6 - Listas dinâmicas\6.5.1\obj\Debug\net7.0\6.5.1.pdb
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 6 - Listas dinâmicas\6.5.1\obj\Debug\net7.0\6.5.1.genruntimeconfig.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 6 - Listas dinâmicas\6.5.1\obj\Debug\net7.0\ref\6.5.1.dll

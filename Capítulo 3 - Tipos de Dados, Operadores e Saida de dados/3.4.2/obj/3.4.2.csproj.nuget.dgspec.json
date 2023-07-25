@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\3.4.2\\3.4.2.csproj": {}
+    "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\3.4.2\\3.4.2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\3.4.2\\3.4.2.csproj": {
+    "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\3.4.2\\3.4.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\3.4.2\\3.4.2.csproj",
+        "projectUniqueName": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\3.4.2\\3.4.2.csproj",
         "projectName": "3.4.2",
-        "projectPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\3.4.2\\3.4.2.csproj",
+        "projectPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\3.4.2\\3.4.2.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\3.4.2\\obj\\",
+        "outputPath": "c:\\Users\\bruno\\Desktop\\GitHubCDC\\livroprogramacaoparainiciantes\\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\\3.4.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
