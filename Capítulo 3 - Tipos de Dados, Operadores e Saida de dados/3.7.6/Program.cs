@@ -1,3 +1,0 @@
-﻿int a = 10;
-int b = --a;
-Console.WriteLine(b);

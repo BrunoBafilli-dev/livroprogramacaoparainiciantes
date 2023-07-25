@@ -1,1 +1,0 @@
-﻿var vetorCopia = (tipo[])vetorOrigem.Clone();

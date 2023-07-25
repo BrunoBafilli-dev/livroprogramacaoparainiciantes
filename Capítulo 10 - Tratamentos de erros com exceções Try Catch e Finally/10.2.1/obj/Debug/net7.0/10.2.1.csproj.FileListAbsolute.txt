@@ -1,5 +1,0 @@
-C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\10.2.1\obj\Debug\net7.0\10.2.1.csproj.AssemblyReference.cache
-C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\10.2.1\obj\Debug\net7.0\10.2.1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\10.2.1\obj\Debug\net7.0\10.2.1.AssemblyInfoInputs.cache
-C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\10.2.1\obj\Debug\net7.0\10.2.1.AssemblyInfo.cs
-C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\10.2.1\obj\Debug\net7.0\10.2.1.csproj.CoreCompileInputs.cache

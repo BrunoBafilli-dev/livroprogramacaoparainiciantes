@@ -1,1 +1,0 @@
-﻿int elemento = matriz[1, 2];
