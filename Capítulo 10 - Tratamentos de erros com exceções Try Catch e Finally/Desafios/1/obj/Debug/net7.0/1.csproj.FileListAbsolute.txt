@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\Desafios\1\bin\Debug\net7.0\1.exe
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\Desafios\1\bin\Debug\net7.0\1.deps.json
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\Desafios\1\bin\Debug\net7.0\1.runtimeconfig.json
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\Desafios\1\bin\Debug\net7.0\1.dll
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\Desafios\1\bin\Debug\net7.0\1.pdb
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\Desafios\1\obj\Debug\net7.0\1.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\Desafios\1\obj\Debug\net7.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\Desafios\1\obj\Debug\net7.0\1.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\Desafios\1\obj\Debug\net7.0\1.AssemblyInfo.cs
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\Desafios\1\obj\Debug\net7.0\1.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\Desafios\1\obj\Debug\net7.0\1.dll
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\Desafios\1\obj\Debug\net7.0\refint\1.dll
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\Desafios\1\obj\Debug\net7.0\1.pdb
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\Desafios\1\obj\Debug\net7.0\1.genruntimeconfig.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 10 - Tratamentos de erros com exceções Try Catch e Finally\Desafios\1\obj\Debug\net7.0\ref\1.dll

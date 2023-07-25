@@ -1,0 +1,12 @@
+﻿bool a = true;
+bool b = false;
+bool resultadoAND = a && b;
+bool resultadoOR = a || b;
+bool resultadoNOTa = !a;
+bool resultadoNOTb = !b;
+bool resultadoXOR = a ^ b;
+Console.WriteLine("Valor de 'resultadoAND': " + resultadoAND);
+Console.WriteLine("Valor de 'resultadoOR': " + resultadoOR);
+Console.WriteLine("Valor de 'resultadoNOTa': " + resultadoNOTa);
+Console.WriteLine("Valor de 'resultadoNOTb': " + resultadoNOTb);
+Console.WriteLine("Valor de 'resultadoXOR': " + resultadoXOR);

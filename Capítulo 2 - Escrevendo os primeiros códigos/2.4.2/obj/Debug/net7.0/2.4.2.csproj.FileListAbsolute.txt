@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Escrevendo os primeiros códigos - Capitulo 2\2.4.2\bin\Debug\net7.0\2.4.2.exe
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Escrevendo os primeiros códigos - Capitulo 2\2.4.2\bin\Debug\net7.0\2.4.2.deps.json
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Escrevendo os primeiros códigos - Capitulo 2\2.4.2\bin\Debug\net7.0\2.4.2.runtimeconfig.json
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Escrevendo os primeiros códigos - Capitulo 2\2.4.2\bin\Debug\net7.0\2.4.2.dll
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Escrevendo os primeiros códigos - Capitulo 2\2.4.2\bin\Debug\net7.0\2.4.2.pdb
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Escrevendo os primeiros códigos - Capitulo 2\2.4.2\obj\Debug\net7.0\2.4.2.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Escrevendo os primeiros códigos - Capitulo 2\2.4.2\obj\Debug\net7.0\2.4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Escrevendo os primeiros códigos - Capitulo 2\2.4.2\obj\Debug\net7.0\2.4.2.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Escrevendo os primeiros códigos - Capitulo 2\2.4.2\obj\Debug\net7.0\2.4.2.AssemblyInfo.cs
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Escrevendo os primeiros códigos - Capitulo 2\2.4.2\obj\Debug\net7.0\2.4.2.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Escrevendo os primeiros códigos - Capitulo 2\2.4.2\obj\Debug\net7.0\2.4.2.dll
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Escrevendo os primeiros códigos - Capitulo 2\2.4.2\obj\Debug\net7.0\refint\2.4.2.dll
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Escrevendo os primeiros códigos - Capitulo 2\2.4.2\obj\Debug\net7.0\2.4.2.pdb
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Escrevendo os primeiros códigos - Capitulo 2\2.4.2\obj\Debug\net7.0\2.4.2.genruntimeconfig.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Escrevendo os primeiros códigos - Capitulo 2\2.4.2\obj\Debug\net7.0\ref\2.4.2.dll

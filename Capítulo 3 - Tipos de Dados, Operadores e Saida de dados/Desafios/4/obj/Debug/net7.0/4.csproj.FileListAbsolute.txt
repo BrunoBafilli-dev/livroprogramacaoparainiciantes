@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\Desafios\4\bin\Debug\net7.0\4.exe
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\Desafios\4\bin\Debug\net7.0\4.deps.json
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\Desafios\4\bin\Debug\net7.0\4.runtimeconfig.json
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\Desafios\4\bin\Debug\net7.0\4.dll
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\Desafios\4\bin\Debug\net7.0\4.pdb
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\Desafios\4\obj\Debug\net7.0\4.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\Desafios\4\obj\Debug\net7.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\Desafios\4\obj\Debug\net7.0\4.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\Desafios\4\obj\Debug\net7.0\4.AssemblyInfo.cs
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\Desafios\4\obj\Debug\net7.0\4.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\Desafios\4\obj\Debug\net7.0\4.dll
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\Desafios\4\obj\Debug\net7.0\refint\4.dll
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\Desafios\4\obj\Debug\net7.0\4.pdb
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\Desafios\4\obj\Debug\net7.0\4.genruntimeconfig.cache
+C:\Users\bruno\Desktop\GitHubCDC\livroprogramacaoparainiciantes\Capítulo 3 - Tipos de Dados, Operadores e Saida de dados\Desafios\4\obj\Debug\net7.0\ref\4.dll
