@@ -1,0 +1,12 @@
+﻿int a = 5;
+int b = 3;
+a += b;
+Console.WriteLine("Valor de 'a' após a adição: " + a);
+a -= b;
+Console.WriteLine("Valor de 'a' após a subtração: " + a);
+a *= b;
+Console.WriteLine("Valor de 'a' após a multiplicação: " + a);
+a /= b;
+Console.WriteLine("Valor de 'a' após a divisão: " + a);
+a %= b;
+Console.WriteLine("Valor de 'a' após o módulo: " + a);

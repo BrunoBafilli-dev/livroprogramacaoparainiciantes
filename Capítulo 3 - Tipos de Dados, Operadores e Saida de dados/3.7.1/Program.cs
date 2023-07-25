@@ -1,0 +1,14 @@
+﻿int a = 5;
+int b = 3;
+int soma = a + b;
+int subtracao = a - b;
+int multiplicacao = a * b;
+int divisao = a / b;
+int modulo = a % b;
+Console.WriteLine("Valor de 'a': " + a);
+Console.WriteLine("Valor de 'b': " + b);
+Console.WriteLine("Valor da soma: " + soma);
+Console.WriteLine("Valor da subtração: " + subtracao);
+Console.WriteLine("Valor da multiplicação: " + multiplicacao);
+Console.WriteLine("Valor da divisão: " + divisao);
+Console.WriteLine("Valor do módulo: " + modulo);
