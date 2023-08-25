@@ -1,26 +1,15 @@
 ﻿/*
-2 - Escreva um programa que solicite um número ao usuário. Em seguida, o programa deve verificar se o 
-número é positivo, negativo ou zero, exibindo a mensagem correspondente.
+2 - Crie um programa que solicite ao usuário dois números e, em seguida, exiba a soma desses dois números.
 */
 
 /**************************Solução abaixo*********************************/
 
-// Solicitar ao usuário que insira um número
-Console.Write("Digite um número: ");
+Console.Write("Digite o primeiro número: ");  // Exibe uma mensagem pedindo ao usuário para digitar o primeiro número.
+int numero1 = int.Parse(Console.ReadLine());  // Lê o número digitado pelo usuário e converte para um valor inteiro, armazenando em "numero1".
 
-// Ler o número digitado pelo usuário e armazená-lo em uma variável
-double numero = double.Parse(Console.ReadLine());
+Console.Write("Digite o segundo número: ");  // Exibe uma mensagem pedindo ao usuário para digitar o segundo número.
+int numero2 = int.Parse(Console.ReadLine());  // Lê o número digitado pelo usuário e converte para um valor inteiro, armazenando em "numero2".
 
-// Verificar se o número é positivo, negativo ou zero
-if (numero > 0)
-{
-    Console.WriteLine("O número é positivo.");
-}
-else if (numero < 0)
-{
-    Console.WriteLine("O número é negativo.");
-}
-else
-{
-    Console.WriteLine("O número é zero.");
-}
+int soma = numero1 + numero2;  // Calcula a soma dos dois números e armazena o resultado em "soma".
+
+Console.WriteLine($"A soma de {numero1} e {numero2} é: {soma}");  // Exibe o resultado da soma na tela.
